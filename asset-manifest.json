@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenten1521/meter-reader-.git/static/css/main.6387e920.css",
+    "main.js": "/tenten1521/meter-reader-.git/static/js/main.8b5fa3a9.js",
+    "static/js/453.d413a88b.chunk.js": "/tenten1521/meter-reader-.git/static/js/453.d413a88b.chunk.js",
+    "index.html": "/tenten1521/meter-reader-.git/index.html",
+    "main.6387e920.css.map": "/tenten1521/meter-reader-.git/static/css/main.6387e920.css.map",
+    "main.8b5fa3a9.js.map": "/tenten1521/meter-reader-.git/static/js/main.8b5fa3a9.js.map",
+    "453.d413a88b.chunk.js.map": "/tenten1521/meter-reader-.git/static/js/453.d413a88b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6387e920.css",
+    "static/js/main.8b5fa3a9.js"
+  ]
+}
